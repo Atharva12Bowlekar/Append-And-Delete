@@ -15,7 +15,8 @@ import random
 import re
 import sys
 
-# Complete the appendAndDelete function below.
+#Complete the appendAndDelete function below.
+
 def appendAndDelete(s, t, k):
     c=0          #Set up for a counter
     
