@@ -1,5 +1,7 @@
 # Append-And-Delete
+
 def appendAndDelete(s, t, k):
+
     c=0
     #Set up for a counter
     for i in range(min(len(s),len(t))):                 
